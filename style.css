@@ -1,0 +1,70 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #494747;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+  width: 370px;
+  background: #335384;
+}
+.cv-photo {
+  margin-top: 25px;
+}
+.header-secodary {
+  color: #ffffff;
+}
+.kontakty {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+.bold {
+  font-weight: 700;
+}
+.list-secondary {
+  color: orange;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-secondary-item {
+  color: #ffffff;
+}
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+.tech-skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+.soft-skills-block {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.front-end-block {
+  margin-top: 102px;
+  width: 400px;
+  height: 230px;
+}
+main {
+  padding: 102px 88px 102px 88px;
+}
+.main-description {
+  width: 400px;
+}
+.job-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
